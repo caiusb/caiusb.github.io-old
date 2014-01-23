@@ -68,6 +68,9 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/googleplus
 #   3rd Party Settings    #
 # ----------------------- #
 
+#Email
+email: caius@brindescu.com
+
 # Github repositories
 github_user: caiusb
 github_repo_count: 0
