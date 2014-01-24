@@ -51,8 +51,11 @@ titlecase: true       # Converts page and post titles to titlecasei
 navigation: 
 - text: About me
   url: /index.html
+- text: Research
+  url: /research.html
 - text: Blog
   url: /blog/index.html
+
 
 # list each of the sidebar modules you want to include, in the order you want them to appear.
 # To add custom asides, create files in /source/_includes/custom/asides/ and add them to the list like 'custom/asides/custom_aside_name.html'
