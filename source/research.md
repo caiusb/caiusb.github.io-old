@@ -11,7 +11,7 @@ footer: true
 
 ## To appear:
 
-1. *How Do Centralized and Distributed Version Control Systems Impact Software Changes?*
+- *How Do Centralized and Distributed Version Control Systems Impact Software Changes?*
 
 	Caius Brindescu, Mihai Codoban, Sergii Shmarkatiuk, Danny Dig
 
