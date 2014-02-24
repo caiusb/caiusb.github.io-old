@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "research"
+title: "Research"
 date: 2014-01-24 10:56
 comments: true
 sharing: true
