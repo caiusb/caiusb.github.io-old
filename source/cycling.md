@@ -20,5 +20,6 @@ And a Specialized Daily 1, that I use for anything else:
 <img src="/pics/daily1.jpg" width="500px"/>
 
 You can follow my activities on [Strava](http://www.strava.com/athletes/63944).
+This is the [link](http://obra.org/people/106922) to my OBRA profile page.
 
 <iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='http://www.strava.com/athletes/63944/activity-summary/8f71cf649293e9c9b3cd67c493d548917ea4352b'></iframe>
