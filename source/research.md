@@ -31,3 +31,4 @@ Considering change and program elements as first class citizens is one way of ac
 
 	([Preprint](/papers/BrindescuICSE2014.pdf))
 	([Tech Report](http://scholarsarchive.library.oregonstate.edu/xmlui/bitstream/handle/1957/44927/tech-report.pdf?sequence=1))
+	([Slides](/slides/slides-ICSE14.pdf))
