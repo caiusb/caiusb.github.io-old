@@ -21,8 +21,6 @@ Considering change and program elements as first class citizens is one way of ac
 
 # Publications #
 
-## To appear:
-
 - *How Do Centralized and Distributed Version Control Systems Impact Software Changes?*
 
 	Caius Brindescu, Mihai Codoban, Sergii Shmarkatiuk, Danny Dig
