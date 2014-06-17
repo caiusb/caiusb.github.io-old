@@ -28,5 +28,5 @@ Considering change and program elements as first class citizens is one way of ac
 	ICSE '14: 36th International Conference on Software Engineering 
 
 	([Preprint](/papers/BrindescuICSE2014.pdf))
-	([Tech Report](http://scholarsarchive.library.oregonstate.edu/xmlui/bitstream/handle/1957/44927/tech-report.pdf?sequence=1))
+	([Tech Report](http://hdl.handle.net/1957/44927))
 	([Slides](/slides/slides-ICSE14.pdf))
